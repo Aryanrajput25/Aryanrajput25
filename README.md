@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Rajput 👋
+# Hi, I'm Aryan Rajput 
 
 Full Stack Developer specializing in **Java, Spring Boot, and React.js** with a strong foundation in Electronics and Communication Engineering. Focused on building scalable backend systems and efficient RESTful APIs.
 
