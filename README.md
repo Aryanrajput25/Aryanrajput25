@@ -1,6 +1,6 @@
 # Hi, I'm Aryan Rajput 
 
-Full Stack Developer specializing in **Java, Spring Boot, and React.js** with a strong foundation in Electronics and Communication Engineering. Focused on building scalable backend systems and efficient RESTful APIs.
+Backend Developer specializing in **Java, Spring Boot**, and **RESTful APIs**, with hands-on experience in **concurrency, distributed systems**, and **database management** using **MySQL** and **Redis**. Passionate about building reliable, scalable backend systems and solving problems through Data Structures and Algorithms.
 
 
 ## My Stack
