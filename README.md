@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Rajput 
+# Hi, I'm Aryan 
 
 Backend Developer specializing in **Java, Spring Boot**, and **RESTful APIs**, with hands-on experience in **concurrency, distributed systems**, and **database management** using **MySQL** and **Redis**. Passionate about building reliable, scalable backend systems and solving problems through Data Structures and Algorithms.
 
